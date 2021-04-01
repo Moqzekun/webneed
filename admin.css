@@ -1,0 +1,63 @@
+<style type="text/css">
+  .table{
+    background-color: #506673;
+  }
+  .table2{
+     background-color: #FFFFFF;
+
+  }
+ 
+ .top{
+  background-color: #607d8;
+ }
+ .mdui-color-diy{
+  background-color: #607d8b;
+ }
+ .mdui-color-background{
+  background-color: #77cae8;
+ }
+ .mdui-border-radius{
+  border-radius: 25px 25px 25px 25px;
+ }
+  .mdui-border-radiusplus{
+    border-radius: 15px;
+  }
+ 
+ .login{
+  padding-top: 4em;
+  padding-left: 3em;
+  padding-right: 2em;
+
+
+ }
+ .formlogin{
+  padding-top: 3.5em;
+  padding-bottom: 1.3em;
+  padding-left: 2em;
+  padding-right:2em;
+
+ }
+ .mdui-btn{
+  border-radius: 50px;
+ }
+ .forget{
+  padding-left: 1em;
+  padding-bottom: 3em;
+  padding-top: 0px;
+ }
+ .yiyan{
+  padding-bottom: 2em;
+  padding-top: 0.5em;
+
+ }
+ .mdui-typo{
+  background-color: 
+ }
+ .bottomfoot{
+  padding-top: 1em;
+ }
+ p strong{
+  color: #FFF
+ }
+
+</style>

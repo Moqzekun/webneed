@@ -1,0 +1,37 @@
+/*Author：一个苦逼且无逻辑的Moqzekun*/
+/*初次接触媒体c查询选择器*/
+/*就这样吧*/
+.img1{
+    		width: 90%;
+
+    	}
+
+    	body {
+    background-image: url("../img/test.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+			}
+	@media screen and (max-width: 500px){
+		body {
+	
+    background-image: url("../img/404background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+			}
+		}
+		/*.page1{
+			padding-left: 8em;
+		}*/
+		.paragraph{
+			padding-top: 15em;
+		}
+		.words{
+			color: #fff;
+		}
+		.words1{
+			color: #69B0AC;
+		}
